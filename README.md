@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MagouKeita
-- 👀 I’m interested in digital innovations 
-- 🌱 I’m currently learning how to manage digital projects in general
-
+- 👀 I’m interested in IT innovations 
+- 🌱 I’m currently learning how to maintain a it infrastructure ...
 
 
 <!---
